@@ -59,8 +59,8 @@ With the Soundscape generator you can go from your office straight to the beach 
 People spend hundreds of pounds on ambient sound machines of varying qualities to achieve what this program can do easily with your own computer and some speakers for free. 
 
 
-![app image]()
-![app image2]()
+![app image](/images/s4.png)
+![app image2](/images/s6.png)
 **Constraints**
 Iteration 1 due **18th November 2019: 2pm.**
 Iteration 2 due **10th December 2019: 2pm.**
